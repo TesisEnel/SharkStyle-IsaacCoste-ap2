@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "692263592308",
+    "project_id": "sharkstyle-677a0",
+    "storage_bucket": "sharkstyle-677a0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692263592308:android:2af5de2a4d0b15ea898c21",
+        "android_client_info": {
+          "package_name": "com.example.sharkstyle"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBToPIfIPnjYPvYJIPBbqCUfmfmmhoqFSI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
