@@ -49,3 +49,9 @@ Explora productos organizados por categorías.
 Utiliza la barra de búsqueda para encontrar rápidamente los productos que necesitas.
 ![buscarenhome](https://github.com/user-attachments/assets/379872aa-df41-4240-a2f9-6f45c7912a79)
 
+---
+
+### **5. Visualizacion del Producto**
+Muestra el Producto con su descripción.
+![producto](https://github.com/user-attachments/assets/77a5e25c-b633-4f73-8078-e368ea088a7e)
+
