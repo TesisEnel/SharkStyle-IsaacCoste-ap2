@@ -36,7 +36,7 @@ import com.example.sharkstyle.data.local.entities.UsuarioEntity
         DetalleCompraEntity::class,
         DetalleProductoEntity::class
     ],
-    version = 1,
+    version = 2,
     exportSchema = false
 )
 @TypeConverters(DetalleConverter::class)
